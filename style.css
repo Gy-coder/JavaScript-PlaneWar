@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.app-container {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.start-background {
+    background-image: url("./images/bg.jpg");
+    height: 100vh;
+    width: 500px;
+    position: relative;
+}
+.start-word{
+    background-image: url("./images/logo.png");
+    height: 100px;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    left: 10%;
+}
+.start-btn {
+    width: 150px;
+    height: 50px;
+    background-color: #8f9293;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 50px;
+    position: absolute;
+    left: 50%;
+    margin-left: -75px;
+    bottom: 20%;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+.game-panel{
+    display: none;
+    background-image: url("./images/bg.jpg");
+    height: 100vh;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.real-score{
+    position: absolute;
+    left: 0;
+    top: 0;
+}

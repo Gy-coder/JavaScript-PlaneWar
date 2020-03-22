@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f74a6c9c-810b-4faa-8223-cd35ce659586" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../Data Structure in JavaScript/排序算法/冒泡排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structure in JavaScript/排序算法/归并排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structure in JavaScript/排序算法/快速排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structure in JavaScript/排序算法/插入排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structure in JavaScript/排序算法/计数排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structure in JavaScript/排序算法/选择排序.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic-server-demo/.idea/dynamic-server-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic-server-demo/db/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic-server-demo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic-server-demo/public/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic-server-demo/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic-server-demo/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/飞机大战.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AJAX-Demo-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AJAX-Demo-1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AJAX-Demo-1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AJAX-Demo-1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AJAX-Demo-1/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AJAX-Demo-1/public/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AJAX-Demo-1/public/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AJAX-Demo-1/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AJAX-Demo-1/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AJAX-demo-2/public/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AJAX-demo-2/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AJAX-demo-2/public/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AJAX-demo-2/public/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZTSIbtB6Wai5RmW2LQhbnEcefd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f74a6c9c-810b-4faa-8223-cd35ce659586" name="默认更改列表" comment="" />
+      <created>1584861511099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584861511099</updated>
+      <workItem from="1584861512431" duration="23016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="23" key="CommitChangelistDialog2" timestamp="1584892774846">
+      <screen x="0" y="23" width="1243" height="777" />
+    </state>
+    <state x="234" y="23" key="CommitChangelistDialog2/0.23.1243.777@0.23.1243.777" timestamp="1584892774845" />
+    <state x="296" y="184" key="run.anything.popup" timestamp="1584892764802">
+      <screen x="0" y="23" width="1243" height="777" />
+    </state>
+    <state x="296" y="184" key="run.anything.popup/0.23.1243.777@0.23.1243.777" timestamp="1584892764802" />
+    <state x="296" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1584886848411">
+      <screen x="0" y="23" width="1243" height="777" />
+    </state>
+    <state x="296" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1243.777@0.23.1243.777" timestamp="1584886848411" />
+  </component>
+</project>
