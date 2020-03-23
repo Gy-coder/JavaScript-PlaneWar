@@ -9,7 +9,6 @@ const startBackground = document.getElementsByClassName('start-background')[0]
 
 
 
-
 //new Flyer(10,{x:10,y:10},{normal:xxx.jpg,destroyed:xxx},{h:1,w:1})
 class Flyer{   //敌机类
     constructor(hp,offset,imgs,size,speed) {
