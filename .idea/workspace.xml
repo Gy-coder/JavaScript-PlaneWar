@@ -33,6 +33,11 @@
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../main.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +54,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZTSIbtB6Wai5RmW2LQhbnEcefd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,6 +64,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -76,7 +82,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584861511099</updated>
-      <workItem from="1584861512431" duration="23016000" />
+      <workItem from="1584861512431" duration="23586000" />
+      <workItem from="1584935413106" duration="10176000" />
+      <workItem from="1584952262226" duration="320000" />
     </task>
     <servers />
   </component>
@@ -84,6 +92,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="356" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584935455164">
+      <screen x="0" y="23" width="1243" height="777" />
+    </state>
+    <state x="356" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1243.777@0.23.1243.777" timestamp="1584935455164" />
     <state x="234" y="23" key="CommitChangelistDialog2" timestamp="1584892774846">
       <screen x="0" y="23" width="1243" height="777" />
     </state>
@@ -92,9 +104,9 @@
       <screen x="0" y="23" width="1243" height="777" />
     </state>
     <state x="296" y="184" key="run.anything.popup/0.23.1243.777@0.23.1243.777" timestamp="1584892764802" />
-    <state x="296" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1584886848411">
+    <state x="296" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1584948170986">
       <screen x="0" y="23" width="1243" height="777" />
     </state>
-    <state x="296" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1243.777@0.23.1243.777" timestamp="1584886848411" />
+    <state x="296" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1243.777@0.23.1243.777" timestamp="1584948170986" />
   </component>
 </project>
