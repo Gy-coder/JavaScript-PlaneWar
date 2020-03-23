@@ -14,13 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../dynamic-server-demo/public/register.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dynamic-server-demo/server.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../dynamic-server-demo/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/飞机大战.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AJAX-Demo-1/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AJAX-Demo-1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AJAX-Demo-1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AJAX-Demo-1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AJAX-Demo-1/public/index.html" afterDir="false" />
@@ -33,11 +26,6 @@
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../main.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +72,7 @@
       <updated>1584861511099</updated>
       <workItem from="1584861512431" duration="23586000" />
       <workItem from="1584935413106" duration="10176000" />
-      <workItem from="1584952262226" duration="320000" />
+      <workItem from="1584952262226" duration="567000" />
     </task>
     <servers />
   </component>
